@@ -1,1 +1,1 @@
-Still on git projects
+Still on git

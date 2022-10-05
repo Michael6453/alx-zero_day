@@ -1,5 +1,5 @@
-#;/bin/bash
-
-echo "The school is open!"
+#;/bin/bashD
+echo "The School is open!"
+>>>>>>> update_script
 
 
